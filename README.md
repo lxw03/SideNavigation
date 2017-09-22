@@ -19,6 +19,7 @@
 ![iPhone 8 .png](http://upload-images.jianshu.io/upload_images/121208-1eaeac71cacb5879.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 ![iPhone X .png](http://upload-images.jianshu.io/upload_images/121208-730824aa958d22ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
+![iPad](https://thumbs.gfycat.com/MagnificentWhichFlyinglemur-size_restricted.gif)
 
 ## Example
 
