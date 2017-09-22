@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/SideNavigation.svg?style=flat)](http://cocoapods.org/pods/SideNavigation)
 [![Platform](https://img.shields.io/cocoapods/p/SideNavigation.svg?style=flat)](http://cocoapods.org/pods/SideNavigation)
 
+![1506063341_115359.png](http://upload-images.jianshu.io/upload_images/121208-b0d7e8a7893a8b40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## Features
 
 - [x] A Side menu.
@@ -13,7 +15,9 @@
 - [x] Independent components.
 
 ## See
-![image.png](http://upload-images.jianshu.io/upload_images/121208-710ab9f57c187cb5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![Simulator Screen Shot - iPhone 8 - 2017-09-22 at 09.45.13.png](http://upload-images.jianshu.io/upload_images/121208-1eaeac71cacb5879.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![Simulator Screen Shot - iPhone X - 2017-09-22 at 10.15.15.png](http://upload-images.jianshu.io/upload_images/121208-730824aa958d22ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+
 
 ## Example
 
